@@ -1,0 +1,13 @@
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.exe
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.deps.json
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.runtimeconfig.json
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.runtimeconfig.dev.json
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.dll
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\bin\Debug\netcoreapp3.1\POO_Produtos.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.csprojAssemblyReference.cache
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.AssemblyInfoInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.AssemblyInfo.cs
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.dll
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.pdb
+C:\Users\Paulo Brandão\Documents\SENAI\2020_2Sem\1Termo\Tarde\POO_Produtos\obj\Debug\netcoreapp3.1\POO_Produtos.genruntimeconfig.cache
